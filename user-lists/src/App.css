@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  border: none;
+  outline: none;
+  font-family: "Glory", sans-serif;
+}
+body{
+  background-color: #f3f0ff;
+}
+
+nav{
+  padding: 12px;
+  box-shadow: 0px 0px 2px 2px #32323232;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  background-color:#f8f0fc;
+}
+nav button{
+  padding: 10px 20px;
+  background-color: #845ef7;
+  color: #FBFBFB;
+  border-radius: 6px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Modak', cursive;
+  margin-right: 30px;
+}
+
+.logo{
+  font-size: 25px;
+  font-family: 'Modak', cursive;
+  font-weight: 900;
+  color: #6741d9;
+  margin-left: 30px;
+}
+.logoS{
+  margin-left: 30px;
+  color: #da77f2;
+}
+.loading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.container{
+  display: flex;
+  margin: 40px; 
+}
+
+
+.userCard{
+  background-color: #fcfcfc;
+  display: block;
+  width: 300px !important;
+  height: 300px;
+  margin: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 5px 1px #32323232;
+}
+.details{
+  padding: 10px;
+  
+}
+img{
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+.upperContainer{
+  height: 150px;
+  width: 280px;
+  position: relative;
+  background: linear-gradient(to left, #ffdeeb,#f3d9fa);
+  transition: 2s;
+}
+.userImg{
+  background-color: #fcfcfc;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  padding: 5px;
+  position: absolute;
+  top:75px;
+  left:75px;
+}
+.details{
+  margin-top: 50px;
+  text-align: center;
+}
+.slick-dots li button:before{
+  color: #da77f2 !important;
+}

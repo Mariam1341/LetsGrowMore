@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+
+*{
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#f4fce3;
+  /* width: 500px; */
+}
+.container{
+  top:50%;
+  left:50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  margin: 0 auto;
+  width:256px;
+  border: 10px solid #101116;
+  background-color: #101116;
+  border-radius: 0.25rem;
+}
+
+.keypad{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: minmax(60px,auto);
+  /* gap: 5px; */
+}
+input{
+  height: 75px;
+  width: 249px;
+  background-color: #10111600;
+  border: 0;
+  color: #fff;
+  text-align: right;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+#clear{
+  grid-column: 1/3;
+}
+
+#result{
+  grid-column: 3/5;
+}
+button{
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: #262834;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+input:focus,
+input:active,
+button:focus,
+button:active{
+  outline: none;
+}
+.highlight{
+  background:#94d82d;
+}
+.highlight:focus,
+  .highlight:active{
+  background:#adf73e;
+}
+
+  .dark-button:focus,
+  .dark-button:active{
+  background: #484c63;
+}
