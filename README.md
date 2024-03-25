@@ -5,7 +5,8 @@ Tasks I did while my internship at let's Grow More
 ## Videos
 
 - Calculator
-  https://youtu.be/rdxuKMranbM
+- demo: https://dapper-cucurucho-9ad45e.netlify.app/  
+- vedio: https://youtu.be/rdxuKMranbM  
 
 - User List
   https://youtu.be/hbU_Iy1LPAg
