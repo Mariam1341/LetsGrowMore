@@ -17,5 +17,5 @@ Tasks I did while my internship at let's Grow More
    - vedio: https://youtu.be/_WKXA1rjDLw
 
 4. Registeration Form
-  - demo: https://dashing-taffy-9369ae.netlify.app/
-  - vedio: https://youtu.be/8wwaH2iFWwM
+   - demo: https://dashing-taffy-9369ae.netlify.app/
+   - vedio: https://youtu.be/8wwaH2iFWwM
