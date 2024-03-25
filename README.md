@@ -8,12 +8,14 @@ Tasks I did while my internship at let's Grow More
    - demo: https://dapper-cucurucho-9ad45e.netlify.app/  
    - vedio: https://youtu.be/rdxuKMranbM  
 
-2. User List
-   demo: (https://dynamic-blini-47e2af.netlify.app/)
-  https://youtu.be/hbU_Iy1LPAg
+2. User List  
+   - demo: https://dynamic-blini-47e2af.netlify.app/
+   - vedio: https://youtu.be/hbU_Iy1LPAg
 
-4. Todo App
-  https://youtu.be/_WKXA1rjDLw
+3. Todo App  
+   - demo: https://moonlit-moxie-b884d0.netlify.app/
+   - vedio: https://youtu.be/_WKXA1rjDLw
 
-5. Registeration Form
-  https://youtu.be/8wwaH2iFWwM
+4. Registeration Form
+  - demo: https://dashing-taffy-9369ae.netlify.app/
+  - vedio: https://youtu.be/8wwaH2iFWwM
